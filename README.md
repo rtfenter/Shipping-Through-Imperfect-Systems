@@ -26,6 +26,8 @@ The central challenge became:
 
 > **How do you ship a trustworthy product when the ideal experience depends on capabilities that don't all exist yet?**
 
+<a href="assets/images/shipping-through-imperfect-systems.png"><img src="assets/images/shipping-through-imperfect-systems.png" alt="Rewards flow, decision framework, and automation boundary" width="100%"></a>
+
 ---
 
 ## The ideal product wasn't the immediately shippable product
@@ -71,6 +73,8 @@ The administrative experience therefore became part of the product architecture 
 A seemingly simple business concept does not always map cleanly to a single system event.
 
 A qualifying purchase needed to satisfy multiple business, funding, lifecycle, and timing conditions. Early production behavior demonstrated that relying on one commerce event alone could produce an incomplete representation of that activity.
+
+In practice, activity that looked like a single commercial event could contain multiple underlying lifecycle changes, while payment status alone could not always establish whether specific activity met the program's funding requirements. The first model was deterministic, but it was too coarse.
 
 The qualification model evolved by working across domain teams to determine which available signals could support deterministic product decisions.
 
@@ -172,17 +176,7 @@ The work was deciding what to do when they didn't.
 
 A narrower rule supported by authoritative evidence can be better than broader functionality the system cannot reliably explain or defend.
 
-### Manual does not mean poorly designed
-
-Operational workflows can be deliberate product decisions when their boundaries, controls, and eventual replacement paths are explicit.
-
-### Internal tools are part of the product
-
-If people need to operate a platform safely, the controls they use are product scope.
-
-### Automation should earn its way into the system
-
-The question isn't simply whether something *can* be automated. The quality of the inputs, consequences of failure, operational alternatives, and future replacement cost all matter.
+That applies to automation too. Manual work isn't inherently poor product design when its boundaries are explicit and the system preserves a path to replace it.
 
 ### Shipping imperfectly and shipping carelessly are different things
 
