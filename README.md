@@ -26,7 +26,7 @@ The central challenge became:
 
 ---
 
-## The ideal product wasn't the immediately shippable product
+## The Ideal Product Wasn't the Immediately Shippable Product
 
 A fully automated experience was the obvious destination.
 
@@ -42,7 +42,7 @@ That distinction shaped decisions from pilot through broader launch.
 
 ---
 
-## Decision 01 · Expand the product boundary
+## Decision 01 · Expand the Product Boundary
 
 Building the rewards capability internally meant the product surface extended beyond partner-facing earning and redemption experiences.
 
@@ -54,7 +54,7 @@ That introduced capabilities not fully represented by the original product bound
 
 An administrative experience was prioritized alongside the partner experience rather than treating these needs as post-launch operations work.
 
-### The tradeoff
+### The Tradeoff
 
 This increased the product surface required for launch.
 
@@ -64,7 +64,7 @@ The administrative experience therefore became part of the product architecture 
 
 ---
 
-## Decision 02 · Make qualification defensible
+## Decision 02 · Make Qualification Defensible
 
 A seemingly simple business concept does not always map cleanly to a single system event.
 
@@ -86,7 +86,7 @@ It was to decide **what the product was allowed to claim it knew.**
 
 ---
 
-## Decision 03 · Decide where automation should stop
+## Decision 03 · Decide Where Automation Should Stop
 
 Automation wasn't the objective.
 
@@ -106,7 +106,7 @@ When automation required certainty the product did not yet have.
 
 Controlled operational workflows were preferable to hiding uncertainty behind automation simply to remove a manual step.
 
-### Preserve for later
+### Preserve for Later
 
 Manual did not have to mean permanent.
 
@@ -118,17 +118,17 @@ It was **automation where the product could support it, operations where it coul
 
 ---
 
-## Pilot was evidence
+## Pilot Was Evidence
 
 The pilot wasn't simply a smaller version of the broader launch.
 
 It exposed assumptions that looked reasonable during design but behaved differently under real conditions.
 
-### Pilot surfaced
+### Pilot Surfaced
 
 **Qualification assumptions · Operational gaps · Data ambiguity · Missing guardrails · Lifecycle edge cases**
 
-### What changed afterward
+### What Changed Afterward
 
 **Qualification logic · Deterministic guardrails · Lifecycle handling · Operational controls · Automation boundaries**
 
