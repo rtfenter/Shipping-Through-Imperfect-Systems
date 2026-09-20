@@ -1,9 +1,5 @@
 # Shipping Through Imperfect Systems
 
-**Repo:** `shipping-through-imperfect-systems`
-
-**One-line description:** Product decisions from a constrained rewards launch: what to automate, what to operationalize, and how to ship without perfect infrastructure.
-
 > **About this case:** Based on professional experience. Business rules, system details, examples, and implementation specifics have been intentionally generalized or altered to protect confidential information.
 
 ## The challenge
