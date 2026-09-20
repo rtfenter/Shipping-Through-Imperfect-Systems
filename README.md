@@ -22,7 +22,9 @@ The central challenge became:
 
 > **How do you ship a trustworthy product when the ideal experience depends on capabilities that don't all exist yet?**
 
-<a href="assets/images/shipping-through-imperfect-systems.png"><img src="assets/images/shipping-through-imperfect-systems.png" alt="Rewards flow, decision framework, and automation boundary" width="100%"></a>
+<p align="center">
+  <a href="assets/images/shipping-through-imperfect-systems.png"><img src="assets/images/shipping-through-imperfect-systems.png" alt="Rewards flow, decision framework, and automation boundary" width="650"></a>
+</p>
 
 ---
 
