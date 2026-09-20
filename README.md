@@ -144,7 +144,7 @@ The objective was to use pilot evidence to make the product more reliable withou
 
 ---
 
-## Making decisions across the system
+## Making Decisions Across the System
 
 None of these decisions belonged exclusively to product, technology, finance, or experience.
 
